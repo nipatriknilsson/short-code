@@ -1,2 +1,2 @@
 # short-code
-Various short code snippets
+Various code snippets, that can be good to have.
